@@ -22,6 +22,13 @@ Tecnologías:
 * HTML
 * CSS
 
+Se agregaron funcionalidades:
+*Agrega nombres
+*Error al no ingresar nada (null)
+*Mostrar nombres en pantalla
+*Sorteo, muestra nombre seleccionado al azar
+*al agregar nombre con boton o tecla enter limpia textfield
+
 Autor
 ## Autores
 
